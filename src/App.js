@@ -7,7 +7,7 @@ export default function App() {
   return (
     <div style={{ textAlign: "center", marginTop: 100 }}>
       <h1>Hello World</h1>
-      <p>Start editing to see some magic happen :)</p>
+
       {/* function Example() { */}
       {/* // Declare a new state variable, which we'll call "count" */}
       <div style={{ textAlign: "center" }}>
