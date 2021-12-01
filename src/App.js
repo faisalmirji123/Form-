@@ -6,7 +6,7 @@ export default function App() {
   const [count, setCount] = useState(0);
   return (
     <div style={{ textAlign: "center", marginTop: 100 }}>
-      <h1>Hello World</h1>
+      <h1>Todo App</h1>
 
       {/* function Example() { */}
       {/* // Declare a new state variable, which we'll call "count" */}
